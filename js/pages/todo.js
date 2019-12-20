@@ -1,6 +1,6 @@
-import AddToDoFormComponent from '../components/AddToDoForm.js'
-import ToDoFilterComponent from '../components/ToDoFilter.js'
-import ToDoListComponent from '../components/ToDoList.js'
+import AddToDoFormComponent from '../components/addToDoForm.js'
+import ToDoFilterComponent from '../components/todoFilter.js'
+import ToDoListComponent from '../components/todoList.js'
 import Page from './page.js'
 
 export default class ToDoPage extends Page {
